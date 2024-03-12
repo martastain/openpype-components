@@ -112,7 +112,7 @@ export const DefaultValueTemplate: FC<DefaultValueTemplateProps> = ({
                 id={'backspace'}
                 className="control"
                 tabIndex={0}
-                data-tooltip={'Clear to NULL'}
+                data-tooltip={'Set to Inherit (null)'}
               />
               <Icon
                 icon={'close'}
